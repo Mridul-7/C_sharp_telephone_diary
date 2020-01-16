@@ -1,0 +1,9 @@
+D:\COLLEGE\c#_project\c_Sharp_Project\c_Sharp_Project\bin\Debug\c_Sharp_Project.exe.config
+D:\COLLEGE\c#_project\c_Sharp_Project\c_Sharp_Project\bin\Debug\c_Sharp_Project.exe
+D:\COLLEGE\c#_project\c_Sharp_Project\c_Sharp_Project\bin\Debug\c_Sharp_Project.pdb
+D:\COLLEGE\c#_project\c_Sharp_Project\c_Sharp_Project\obj\Debug\c_Sharp_Project.csprojAssemblyReference.cache
+D:\COLLEGE\c#_project\c_Sharp_Project\c_Sharp_Project\obj\Debug\c_Sharp_Project.Form1.resources
+D:\COLLEGE\c#_project\c_Sharp_Project\c_Sharp_Project\obj\Debug\c_Sharp_Project.Properties.Resources.resources
+D:\COLLEGE\c#_project\c_Sharp_Project\c_Sharp_Project\obj\Debug\c_Sharp_Project.csproj.GenerateResource.cache
+D:\COLLEGE\c#_project\c_Sharp_Project\c_Sharp_Project\obj\Debug\c_Sharp_Project.exe
+D:\COLLEGE\c#_project\c_Sharp_Project\c_Sharp_Project\obj\Debug\c_Sharp_Project.pdb
